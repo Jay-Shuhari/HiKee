@@ -1,0 +1,9 @@
+node_modules
+dist
+.amplify
+amplify_outputs*
+amplifyconfiguration*
+.npm
+*.log
+.env*.local
+.DS_Store
